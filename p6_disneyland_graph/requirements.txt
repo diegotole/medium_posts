@@ -2,3 +2,5 @@ xmltodict
 haversine
 notebook
 pandas
+matplotlib
+networkx

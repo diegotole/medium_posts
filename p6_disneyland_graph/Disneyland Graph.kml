@@ -355,26 +355,6 @@
 			<coordinates>-117.919522,33.8118319,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="04E343C2D613A7BD0CC0">
-		<name>Haunted Mansion</name>
-		<gx:mid>/g/1vtqwdf5</gx:mid>
-		<gx:fid>0x80dcd7d6577c75e5:0xad368fe9ba0c3a6c</gx:fid>
-		<LookAt>
-			<longitude>-117.9221794</longitude>
-			<latitude>33.8117229</latitude>
-			<altitude>0</altitude>
-			<heading>0</heading>
-			<tilt>0</tilt>
-			<gx:fovy>35</gx:fovy>
-			<range>860.0508932308536</range>
-			<altitudeMode>relativeToGround</altitudeMode>
-		</LookAt>
-		<styleUrl>#__managed_style_044E6661A613B0A2F18D</styleUrl>
-		<Point>
-			<altitudeMode>relativeToGround</altitudeMode>
-			<coordinates>-117.9221794,33.8117229,0</coordinates>
-		</Point>
-	</Placemark>
 	<Placemark id="0875E1562513A7BD59AB">
 		<name>Splash Mountain</name>
 		<gx:mid>/g/11dx8ldckj</gx:mid>
