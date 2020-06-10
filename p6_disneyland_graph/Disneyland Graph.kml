@@ -532,7 +532,7 @@
 		<styleUrl>#__managed_style_01CC5D09AF13C26848AC</styleUrl>
 		<Point>
 			<altitudeMode>relativeToGround</altitudeMode>
-			<coordinates>-117.9178472,33.8146006,0</coordinates>
+			<coordinates>-117.9177744802739,33.81436659489393,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="030606F92B13A7C1D1E1">
@@ -1347,6 +1347,57 @@
 		<styleUrl>#__managed_style_0D573C151613C25D55ED</styleUrl>
 		<Point>
 			<coordinates>-117.9205494452475,33.81129608704043,43.00720616429003</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B76231CE813D58AA419">
+		<name>SW Entrance - Adventure Land </name>
+		<LookAt>
+			<longitude>-117.9203174145435</longitude>
+			<latitude>33.81341237644558</latitude>
+			<altitude>42.72182673655311</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>234.8595182389181</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0DF75B182813B0A6A97A</styleUrl>
+		<Point>
+			<coordinates>-117.9209986938497,33.81369076963647,44.19147802098061</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045BFCC4E813D58E7955">
+		<name>SW Entrance - Fantasyland</name>
+		<LookAt>
+			<longitude>-117.9200614486434</longitude>
+			<latitude>33.81355529062645</latitude>
+			<altitude>42.29115313883977</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>235.290181212622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D573C151613C25D55ED</styleUrl>
+		<Point>
+			<coordinates>-117.9201090116828,33.81397485075405,44.26647527660668</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E9209DE313D58F29B2">
+		<name>SW Entrance - Frontier Land </name>
+		<LookAt>
+			<longitude>-117.9222494863597</longitude>
+			<latitude>33.81289271924754</latitude>
+			<altitude>40.7150856172002</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>335.8614932505589</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D573C151613C25D55ED</styleUrl>
+		<Point>
+			<coordinates>-117.9227774453522,33.81311985912843,43.06434221449982</coordinates>
 		</Point>
 	</Placemark>
 </Document>

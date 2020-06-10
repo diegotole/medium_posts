@@ -31,10 +31,11 @@ with open("disneyland_attractions.csv", 'w') as fout:
 # +1 fortune teller has 2 locations
 # +3 there are 4 railroad stations
 # -1 datapad is mobile app game
+# +3 SW entrances
 
 print(len(rows))
 # total 5
-total_rows = (55 - 1 + 1 + 3 - 1)
+total_rows = (55 - 1 + 1 + 3 - 1 + 3)
 assert len(rows) == total_rows
 
 # no repeats
