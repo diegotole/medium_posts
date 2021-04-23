@@ -71,7 +71,6 @@ def display_dictionary(mymap, edges=None):
     # df['rot_y'] = df['tmp']
 
     plt.figure(figsize=(10, 10))
-
     plt.scatter([mymap[x]['long'] for x in mymap], [mymap[x]['lat'] for x in mymap])
 
     plt.scatter([mymap[RAIL_ROAD_ENTRANCE_ID]['long'], ], [mymap[RAIL_ROAD_ENTRANCE_ID]['lat'], ], color="red")
